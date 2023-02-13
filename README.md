@@ -1,5 +1,6 @@
 ### Bot TODOLIST
 
+- [ ] Build the project using React
 - [ ] Host in Unraid
 
 # Discord bot
