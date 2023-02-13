@@ -388,6 +388,7 @@ testem.log
 *.env.test.local
 *.env.production.local
 *.local
+.env
 
 # System Files
 .DS_Store
