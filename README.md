@@ -6,5 +6,5 @@
 # Discord bot
 This bot is used in discord to asnwer user question. It is using ChatGPT and host in Unraid.
 
-# Toget discord token:
+# To get discord token:
 https://discord.com/developers/applications
